@@ -1,0 +1,7 @@
+True.pm
+COPYING
+MANIFEST
+Makefile.PL
+README
+configure
+t/1.t
